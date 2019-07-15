@@ -1,0 +1,33 @@
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.csprojAssemblyReference.cache
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.AssemblyInfo.cs
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.deps.json
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.runtimeconfig.json
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.runtimeconfig.dev.json
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.dll
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.pdb
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.dll
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.pdb
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.csprojAssemblyReference.cache
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.AssemblyInfo.cs
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.dll
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.pdb
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.deps.json
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.runtimeconfig.json
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.runtimeconfig.dev.json
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.dll
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.pdb
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.deps.json
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.runtimeconfig.json
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.runtimeconfig.dev.json
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.dll
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Debug\netcoreapp2.2\Guessing Game.pdb
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.csprojAssemblyReference.cache
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.AssemblyInfo.cs
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.dll
+C:\Users\jack.CLIMARK\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Debug\netcoreapp2.2\Guessing Game.pdb

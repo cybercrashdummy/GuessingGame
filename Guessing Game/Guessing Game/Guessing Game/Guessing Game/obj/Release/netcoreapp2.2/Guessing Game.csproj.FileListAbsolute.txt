@@ -1,0 +1,10 @@
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Release\netcoreapp2.2\Guessing Game.deps.json
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Release\netcoreapp2.2\Guessing Game.runtimeconfig.json
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Release\netcoreapp2.2\Guessing Game.runtimeconfig.dev.json
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Release\netcoreapp2.2\Guessing Game.dll
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\bin\Release\netcoreapp2.2\Guessing Game.pdb
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Release\netcoreapp2.2\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Release\netcoreapp2.2\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Release\netcoreapp2.2\Guessing Game.AssemblyInfo.cs
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Release\netcoreapp2.2\Guessing Game.dll
+C:\Users\cyber\OneDrive\Desktop\C# Projects\Guessing Game\Guessing Game\Guessing Game\Guessing Game\obj\Release\netcoreapp2.2\Guessing Game.pdb
